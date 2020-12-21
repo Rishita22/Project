@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1608546304,,"wq"
+|2,0,1608546465,,"wq"
 :q!
 |2,0,1608546213,,"q!"
 :i
@@ -31,28 +31,32 @@
 # Registers:
 
 # File marks:
-'0  14  16  ~/docker-compose.yml
-|4,48,14,16,1608546304,"~/docker-compose.yml"
-'1  2  18  ~/Dockerfile.tomcat
-|4,49,2,18,1608546213,"~/Dockerfile.tomcat"
-'2  1  0  ~/vi
-|4,50,1,0,1608546193,"~/vi"
-'3  6  34  ~/docker-compose.yml
-|4,51,6,34,1608546051,"~/docker-compose.yml"
-'4  6  34  ~/docker-compose.yml
-|4,52,6,34,1608546051,"~/docker-compose.yml"
-'5  3  18  ~/Dockerfile.tomcat
-|4,53,3,18,1608543375,"~/Dockerfile.tomcat"
-'6  3  18  ~/Dockerfile.tomcat
-|4,54,3,18,1608543375,"~/Dockerfile.tomcat"
-'7  3  18  ~/Dockerfile.tomcat
-|4,55,3,18,1608543375,"~/Dockerfile.tomcat"
+'0  6  34  ~/docker-compose.yml
+|4,48,6,34,1608546465,"~/docker-compose.yml"
+'1  11  26  ~/docker-compose.yml
+|4,49,11,26,1608546304,"~/docker-compose.yml"
+'2  14  16  ~/docker-compose.yml
+|4,50,14,16,1608546304,"~/docker-compose.yml"
+'3  2  18  ~/Dockerfile.tomcat
+|4,51,2,18,1608546213,"~/Dockerfile.tomcat"
+'4  1  0  ~/vi
+|4,52,1,0,1608546193,"~/vi"
+'5  6  34  ~/docker-compose.yml
+|4,53,6,34,1608546051,"~/docker-compose.yml"
+'6  6  34  ~/docker-compose.yml
+|4,54,6,34,1608546051,"~/docker-compose.yml"
+'7  6  34  ~/docker-compose.yml
+|4,55,6,34,1608546051,"~/docker-compose.yml"
 '8  3  18  ~/Dockerfile.tomcat
 |4,56,3,18,1608543375,"~/Dockerfile.tomcat"
-'9  9  15  ~/Dockerfile.app
-|4,57,9,15,1608540939,"~/Dockerfile.app"
+'9  3  18  ~/Dockerfile.tomcat
+|4,57,3,18,1608543375,"~/Dockerfile.tomcat"
 
 # Jumplist (newest first):
+-'  6  34  ~/docker-compose.yml
+|4,39,6,34,1608546465,"~/docker-compose.yml"
+-'  11  26  ~/docker-compose.yml
+|4,39,11,26,1608546439,"~/docker-compose.yml"
 -'  14  16  ~/docker-compose.yml
 |4,39,14,16,1608546304,"~/docker-compose.yml"
 -'  6  34  ~/docker-compose.yml
@@ -61,6 +65,14 @@
 |4,39,2,18,1608546213,"~/Dockerfile.tomcat"
 -'  2  18  ~/Dockerfile.tomcat
 |4,39,2,18,1608546213,"~/Dockerfile.tomcat"
+-'  2  18  ~/Dockerfile.tomcat
+|4,39,2,18,1608546213,"~/Dockerfile.tomcat"
+-'  2  18  ~/Dockerfile.tomcat
+|4,39,2,18,1608546213,"~/Dockerfile.tomcat"
+-'  3  18  ~/Dockerfile.tomcat
+|4,39,3,18,1608546204,"~/Dockerfile.tomcat"
+-'  3  18  ~/Dockerfile.tomcat
+|4,39,3,18,1608546204,"~/Dockerfile.tomcat"
 -'  3  18  ~/Dockerfile.tomcat
 |4,39,3,18,1608546204,"~/Dockerfile.tomcat"
 -'  3  18  ~/Dockerfile.tomcat
@@ -73,6 +85,14 @@
 |4,39,1,0,1608546193,"~/vi"
 -'  1  0  ~/vi
 |4,39,1,0,1608546193,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1608546193,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1608546193,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1608546193,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1608546193,"~/vi"
 -'  6  34  ~/docker-compose.yml
 |4,39,6,34,1608546051,"~/docker-compose.yml"
 -'  6  34  ~/docker-compose.yml
@@ -93,6 +113,34 @@
 |4,39,3,18,1608543375,"~/Dockerfile.tomcat"
 -'  3  18  ~/Dockerfile.tomcat
 |4,39,3,18,1608543375,"~/Dockerfile.tomcat"
+-'  3  18  ~/Dockerfile.tomcat
+|4,39,3,18,1608543375,"~/Dockerfile.tomcat"
+-'  3  18  ~/Dockerfile.tomcat
+|4,39,3,18,1608543375,"~/Dockerfile.tomcat"
+-'  3  18  ~/Dockerfile.tomcat
+|4,39,3,18,1608543375,"~/Dockerfile.tomcat"
+-'  3  18  ~/Dockerfile.tomcat
+|4,39,3,18,1608543375,"~/Dockerfile.tomcat"
+-'  3  18  ~/Dockerfile.tomcat
+|4,39,3,18,1608543375,"~/Dockerfile.tomcat"
+-'  3  18  ~/Dockerfile.tomcat
+|4,39,3,18,1608543375,"~/Dockerfile.tomcat"
+-'  7  18  ~/Dockerfile.tomcat
+|4,39,7,18,1608540951,"~/Dockerfile.tomcat"
+-'  7  18  ~/Dockerfile.tomcat
+|4,39,7,18,1608540951,"~/Dockerfile.tomcat"
+-'  7  18  ~/Dockerfile.tomcat
+|4,39,7,18,1608540951,"~/Dockerfile.tomcat"
+-'  7  18  ~/Dockerfile.tomcat
+|4,39,7,18,1608540951,"~/Dockerfile.tomcat"
+-'  7  18  ~/Dockerfile.tomcat
+|4,39,7,18,1608540951,"~/Dockerfile.tomcat"
+-'  7  18  ~/Dockerfile.tomcat
+|4,39,7,18,1608540951,"~/Dockerfile.tomcat"
+-'  7  18  ~/Dockerfile.tomcat
+|4,39,7,18,1608540951,"~/Dockerfile.tomcat"
+-'  7  18  ~/Dockerfile.tomcat
+|4,39,7,18,1608540951,"~/Dockerfile.tomcat"
 -'  7  18  ~/Dockerfile.tomcat
 |4,39,7,18,1608540951,"~/Dockerfile.tomcat"
 -'  7  18  ~/Dockerfile.tomcat
@@ -173,107 +221,61 @@
 |4,39,9,15,1608540939,"~/Dockerfile.app"
 -'  9  15  ~/Dockerfile.app
 |4,39,9,15,1608540939,"~/Dockerfile.app"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  6  34  ~/docker-compose.yml
-|4,39,6,34,1608538965,"~/docker-compose.yml"
--'  15  28  ~/docker-compose.yml
-|4,39,15,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  11  28  ~/docker-compose.yml
-|4,39,11,28,1608538943,"~/docker-compose.yml"
--'  18  18  ~/docker-compose.yml
-|4,39,18,18,1608538729,"~/docker-compose.yml"
--'  14  18  ~/docker-compose.yml
-|4,39,14,18,1608538729,"~/docker-compose.yml"
--'  14  18  ~/docker-compose.yml
-|4,39,14,18,1608538729,"~/docker-compose.yml"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
+-'  9  15  ~/Dockerfile.app
+|4,39,9,15,1608540939,"~/Dockerfile.app"
 
 # History of marks within files (newest to oldest):
 
 > ~/docker-compose.yml
-	*	1608546301	0
-	"	14	16
-	^	14	17
-	.	14	16
+	*	1608546463	0
+	"	6	34
+	^	6	35
+	.	7	0
 	+	6	33
-	+	17	0
+	+	14	0
 	+	5	0
 	+	5	5
 	+	6	5
 	+	6	38
 	+	6	60
-	+	16	0
-	+	15	10
-	+	15	3
-	+	9	0
-	+	8	14
-	+	14	16
+	+	13	0
+	+	12	10
+	+	12	3
+	+	7	0
+	+	6	59
+	+	11	10
+	+	11	3
+	+	7	0
 
 > ~/Dockerfile.tomcat
 	*	1608546209	0

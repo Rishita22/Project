@@ -4,14 +4,11 @@ services:
     build:
       context : "/home/ec2-user"
       dockerfile : "Dockerfile.app"
-    ports:
-      - "80:80"
   appservice:
     build:
       context : "."
       dockerfile : "Dockerfile.tomcat"
-    ports:
-      - "90:8080"
+   
    
 
 
