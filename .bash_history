@@ -238,3 +238,59 @@ docker rmi -f 0ae7d0f39bb1
 docker image ls
 vi Dockerfile.app
 vi Dockerfile.tomcat
+ls
+sudo yum install git -y
+which git
+git status
+git init
+git status
+git add .
+git status
+git commit -m "sending all files"
+git push
+git remote add upstream https://github.com/Rishita22/Project
+git remote add origin https://github.com/Rishita22/Project
+git push --set-upstream origin master
+ls
+vi docker-compose.yml 
+vi vi Dockerfile.tomcat
+vi Dockerfile.tomcat
+ls
+cat Dockerfile.tomcat
+vi docker-compose.yml 
+git add .
+git commit -m "edited ports"
+git push origin master
+ls
+vi docker-compose.yml 
+git add .
+git commit -m "deleted ports"
+git push origin master
+sudo cat docker-compose.yml 
+ls
+docker-compose config
+docker build -t hello:1.0 -f Dockerfile.tomcat .
+docker run -d -p 8080:8080 --name kitty -it hello:1.0
+docker ps
+docker container stop kitty
+docker container rm kitty
+docker image rm hello:1.0
+docker ps
+docker image ls
+docker image rm 2f222176fe4e
+docker image rm 630aae7044d9
+docker image ls
+docker image rm 9b29e0661997
+docker container rm e4d6235fea9f
+docker image rm 9b29e0661997
+ls
+vi docker-compose.yml 
+git add .
+got commit -m "edited compose file"
+git commit -m "edited compose file"
+git push origin master
+ls
+vi docker-compose.yml 
+git add .
+git commit -m "edited compose file"
+git push origin master

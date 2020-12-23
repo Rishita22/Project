@@ -1,0 +1,23 @@
+apiVersion : apps/v1
+kind : Deployment
+metadata:
+  name : spicyo-deployment
+  labels:
+    app: spicyo
+spec:
+  replicas : 2
+  template:
+    metadata :
+      labels :
+        app: spicyo
+
+    spec:
+      containers:
+        - name : burger
+          image : devtechieops/spicyo:1.0
+          ports:
+            - containerPort : 80
+  selector:
+    matchLabels:
+      app : spicyo
+
