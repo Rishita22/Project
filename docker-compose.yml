@@ -1,16 +1,10 @@
-version : '3'
+version : "3"
 services:
-  webservice:
+  webservice :
     build:
       context : "/home/ec2-user"
-      dockerfile : "Dockerfile.app"
-    
+      dockerfile: "Dockerfile.app"
   appservice:
     build:
-      context : "/home/ec2-user"
-      dockerfile : "Dockerfile.tomcat"
- 
-   
-   
-
-
+      context: "/home/ec2-user"
+      dockerfile: "Dockerfile.tomcat"
